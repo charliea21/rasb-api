@@ -1,0 +1,26 @@
+{
+  "name": "rasb",
+  "version": "1.0.0",
+  "description": "A JavaScript libary for interacting with the RASB API",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charliea21/rasb-api.git"
+  },
+  "keywords": [
+    "rasb",
+    "rasb-api"
+  ],
+  "author": "OMG_",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charliea21/rasb-api/issues"
+  },
+  "homepage": "https://github.com/charliea21/rasb-api#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
